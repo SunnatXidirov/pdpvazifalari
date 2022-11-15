@@ -1,3 +1,3 @@
 # pdpvazifalari
-Bu yerda java vazifalari bor
-Java darslari javoblari bor
+Bu yerda java vazifalari 
+javoblari bor
