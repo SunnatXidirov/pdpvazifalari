@@ -1,2 +1,3 @@
 # pdpvazifalari
-PdP_Vazifalari
+Bu yerda java vazifalari bor
+Java darslari javoblari bor
